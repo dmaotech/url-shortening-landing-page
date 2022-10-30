@@ -8,7 +8,7 @@
       Live
     </a>
     <span> | </span>
-    <a href="https://www.frontendmentor.io/solutions/">
+    <a href="https://www.frontendmentor.io/solutions/url-shortener-with-shrtcode-api-fJHZplX8q3">
       Solution
     </a>
    <span> | </span>
